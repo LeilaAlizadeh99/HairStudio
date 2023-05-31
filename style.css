@@ -1,0 +1,33 @@
+#{
+    margin: 0;
+    padding: 0;
+}
+
+#banner{
+    background: linear-gradient(rgba(0,0,0.2,0.2), #250029), url(photos/galleries_3_poster.jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.logo{
+    width: 140px;
+    position: absolute;
+    top: 4%;
+    left: 5%;
+}
+
+.banner-text{
+    text-align: center;
+    color: white;
+    padding-top: 180px;
+}
+
+.banner-text h1{
+    font-size: 130px;
+}
+
+.banner-text p{
+    font-size: 20px;
+    font-style: italic;
+}
